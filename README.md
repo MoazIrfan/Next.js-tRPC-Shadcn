@@ -138,7 +138,6 @@ your app will be running at http://localhost:3000
 └── next.config.mjs
 
 ```
-<<<<<<< HEAD
 
 <br>
 
@@ -169,5 +168,3 @@ MIT © [Moaz Irfan](https://twitter.com/MoazIrfan/)
     </a>&nbsp;
 </p>
 </div>
-=======
->>>>>>> dad171898a12d6e7b8e6e3bddee5510e04594416
