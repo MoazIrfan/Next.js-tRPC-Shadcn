@@ -2,7 +2,7 @@
 
 **Next.js (App Router) tRPC TailwindCSS shadcn/ui**
 
-Teck Stack used to develop this Order Status Tracker app includes Next.js (App Router), tRPC, TailwindCSS, and Shadcn.
+This Mini Order Status Tracker app is built using Next.js (App Router), tRPC, TailwindCSS, and Shadcn UI.
 
 An end-to-end **Order Status Tracker**.
 
